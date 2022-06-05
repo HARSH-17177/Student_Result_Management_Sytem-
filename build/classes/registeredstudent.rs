@@ -1,0 +1,2 @@
+student.result.management.registeredstudent
+student.result.management.registeredstudent$1
